@@ -1,0 +1,41 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	background-color:#333;
+		
+}
+
+#mainDiv{
+	background-color:#FFFFFF;
+	margin:7% auto;
+	width:760px;
+	height:760px;	
+}
+
+#listDiv{
+	float:left;
+	width:200px;	
+	height:760px;
+}
+
+#titleDiv{
+	height:200px;	
+}
+
+#top{
+	background-color:#39C;
+	width:760px;
+	height:100px;
+	margin:0 auto;	
+}
+
+#addNew{
+	width:760px;
+	margin:0 auto;
+	display:none;	
+}
+
+.displayNone{
+	display: none;	
+}
